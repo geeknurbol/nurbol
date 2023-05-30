@@ -1,4 +1,5 @@
 
+
 function toggleAnswer(riddleNumber) {
     var answerElement = document.getElementById("answer" + riddleNumber);
     var buttonElement = document.getElementById("btn" + riddleNumber);
